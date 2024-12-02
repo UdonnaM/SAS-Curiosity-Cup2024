@@ -96,3 +96,16 @@ Special thanks to Dr. Liam Naughton and Mr. Julius Odede for their invaluable gu
 
 Key references include works by Wegman (2017), Schepers et al. (2014), and Kaplan (2019), among others. For a comprehensive list of references, please see the attached project documentation.
 
+#  Recognition and Achievements
+
+We are proud to be recognized as a **2024 SAS Curiosity Cup Finalist**
+
+![SASInsight Trailblazers](images/SAS-Finalist.jpg)  
+
+For further verification, refer to: [2024 SAS curiosity cup finalist](https://www.credly.com/badges/a8cc79f2-bb6b-4e3e-ab71-cb5dc22409ea/public_url)
+
+
+
+**Thank you for exploring our project. For any inquiries, feel free to reach out!**
+
+
