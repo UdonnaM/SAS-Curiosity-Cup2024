@@ -104,7 +104,19 @@ We are proud to be recognized as a **2024 SAS Curiosity Cup Finalist**
 
 For further verification, refer to: [2024 SAS curiosity cup finalist](https://www.credly.com/badges/a8cc79f2-bb6b-4e3e-ab71-cb5dc22409ea/public_url)
 
+#
 
+#  Final Round: Video Presentation
+
+[🎥 Watch Our Video Presentation](https://livewlvac-my.sharepoint.com/:v:/r/personal/m_u_egbuzobi_wlv_ac_uk/Documents/Microsoft%20Teams%20Chat%20Files/Curiosity%20Cup%20final%20video%20presentation.mp4?csf=1&web=1&e=sXB1gu)
+
+#
+
+#  Check out my LinkedIn post on Tips for Success in the SAS Curiosity Cup 2024
+
+[Tips for Success in the SAS Curiosity Cup 2024](https://www.linkedin.com/posts/michael-udonna-egbuzobi_student-hackathon-curiositycup-activity-7269501755254607872-v_LV?utm_source=share&utm_medium=member_desktop)
+
+#
 
 **Thank you for exploring our project. For any inquiries, feel free to reach out!**
 
